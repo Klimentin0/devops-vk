@@ -18,11 +18,11 @@
 
 - Если tar.gz:
 ```
-tar -xvf devops_vk.tar.gz
+tar -xvf devops-vk.tar.gz
 ```
 - Если zip:
 ```
-unzip devops_vk.zip
+unzip devops-vk.zip
 ```
 Также можно с репоизтория: 
 ```
