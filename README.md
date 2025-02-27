@@ -26,7 +26,7 @@ unzip devops-vk.zip
 ```
 Также можно с репоизтория: 
 ```
-git clone 
+git clone https://github.com/Klimentin0/devops-vk
 ```
 И переходим в корневую папку проекта после извлечения(или клонирования):
 ```
